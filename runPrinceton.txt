@@ -1,0 +1,6 @@
+rem 
+rem arg1 URL
+rem arg2 (optional) domain to crawl
+rem
+
+java crawlingStart http://algs4.cs.princeton.edu/40graphs/ algs4.cs > outPT_SUNDAY4.txt
