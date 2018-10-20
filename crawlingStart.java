@@ -1,3 +1,6 @@
+/*
+ * minor cleaning 20 Oct 2018
+ */
 public class crawlingStart
 {
 	/**
@@ -33,5 +36,4 @@ public class crawlingStart
 		wc1.printStruct();
 
 	}
-
 }

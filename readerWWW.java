@@ -7,8 +7,7 @@ import java.net.URLConnection;
 
 public class readerWWW
 {
-	public static String read(String url) throws MalformedURLException,
-			IOException
+	public static String read(String url) throws MalformedURLException, IOException
 	{
 		URLConnection conn = new URL(url).openConnection();
 		conn.connect();
@@ -26,5 +25,4 @@ public class readerWWW
 
 		return sbIn.toString();
 	}
-
 }
