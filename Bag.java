@@ -4,6 +4,8 @@
  *
  *  A generic bag or multiset, implemented using a linked list.
  *
+ *  Additional comment 20 Oct 2018.
+ *
  *************************************************************************/
 
 import java.util.Iterator;
