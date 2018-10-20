@@ -9,3 +9,5 @@ Given the url the program outputs a site map, showing which static assets each p
 Particular attention has been paid to the choice of data structures, in order to get fast performances.
 
 The file runPrinceton.txt is provided as an example of how to run the application.
+
+New comment in 20 Oct 2018
